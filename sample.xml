@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<people>
+    <person full_name="i.ivanov">
+        <start>21-12-2011 10:54:47</start>
+        <end>21-12-2011 19:43:02</end>
+    </person>
+    <person full_name="a.stepanova">
+        <start>21-12-2011 09:40:10</start>
+        <end>21-12-2011 17:59:15</end>
+    </person>
+    <person full_name="i.ivanov">
+        <start>22-12-2011 10:54:47</start>
+        <end>22-12-2011 19:43:02</end>
+    </person>
+    <person full_name="a.stepanova">
+        <start>22-12-2011 23:40:10</start>
+        <end>23-12-20171 04:59:15</end>
+    </person>
+    <person full_name="a.stepanova">
+        <start>22-12-2011 23:40:10</start>
+        <end></end>
+    </person>
+    <person full_name="a.stepanova">
+        <start>22-12-2011 23:40:10</start>
+        <end>23-12-2011 04:59:15</end>
+    </person>
+    <person full_name="a.stepanova">
+        <start>25-12-2011 23:40:10</start>
+    </person>
+    <person full_name="a.stepanova">
+        <end>25-12-2011 04:59:15</end>
+    </person>
+</people>
