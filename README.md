@@ -1,8 +1,10 @@
 ### The program calculates the time of the visit
 
-```
-The program calculates the time of the visit of all employee at the workplace for a spesific date. Allows you to filter by date range, and show the visit time for each employee. If the `end_time` of an employee belongs to the next working day, then the working time will be taken into account on the date corresponding to the `start_time`.
-```
+
+The program calculates the time of the visit of all employee at the workplace for a spesific
+date. Allows you to filter by date range, and show the visit time for each employee. If the
+`end_time` of an employee belongs to the next working day, then the working time will be taken
+into account on the date corresponding to the `start_time`.
 
 ## Run
 
